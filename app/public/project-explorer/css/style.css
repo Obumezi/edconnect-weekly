@@ -1,0 +1,40 @@
+.card-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1400px;
+  margin: 40px auto 0 auto;
+}
+
+.card {
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  flex-basis: 24%;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+li {
+  list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
